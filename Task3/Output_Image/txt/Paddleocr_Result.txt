@@ -1,0 +1,9 @@
+ PaddleOCR Results (Text Only):
+Text: BSIU833165 | Confidence: 0.91
+Text: BSIU | Confidence: 0.99
+Text: 833165 | Confidence: 1.00
+Text: 6 | Confidence: 0.97
+Text: 45G1 | Confidence: 0.99
+Text: TARE | Confidence: 1.00
+Text: 77 | Confidence: 0.80
+Text: CU.CAP. | Confidence: 0.95

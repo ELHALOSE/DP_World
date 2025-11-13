@@ -1,0 +1,4 @@
+train: /content/datasets/train/images
+val: /content/datasets/train/images
+nc: 1
+names: ['container_door']

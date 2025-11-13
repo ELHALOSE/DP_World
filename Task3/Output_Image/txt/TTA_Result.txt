@@ -1,0 +1,16 @@
+ Test Time Augmentation (TTA) Results:
+
+ Version: original
+Detected: ['DS KU 833165', 'BIde sky', 'BS IU', '833165', '4561', 'IOnntet', '71850', 'TARE', '1770', 'ltg', '68348', 'CU', 'CAP', '2700', 'cu Im', 'cuto']
+
+ Version: rotated_90
+Detected: ['=', '2', '8', '2', 'E7', '1', '8', '8', '6', '6', 'F', '2', '22', '1']
+
+ Version: contrast_up
+Detected: ['DSHU 833165', 'BIy _', 'Er', 'BSIU', '833165', '4561', '203o', '71850', 'IARE', 'a70', 'Lqn', '633', 'CU;', 'CAP:', '2700', 'cWjto', 'Cu,m']
+
+ Version: gray
+Detected: ['DS KU 833165', 'Blye sky', 'BS IU', '833165', '4561', 'Ldie', '71850', 'TARE', '1770', 'ltg', '68348', 'CU', 'CAP:', '780', 'cu Im', 'cuto']
+
+ Version: sharpened
+Detected: ['DSHU 833165', 'sky', 'BS J U', '833165', '4561', '71850', 'TARE', '1Ta', '63328', 'cu; CaP:', '2783', 'CUL', 'cuETI', 'Bicia']

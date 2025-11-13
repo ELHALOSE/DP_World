@@ -1,0 +1,9 @@
+SSIM Scores for task1_img1:
+Histogram Equalization: SSIM = 0.5146
+CLAHE: SSIM = 0.7925
+Bilateral + Sharpen: SSIM = 0.8667
+Unsharp Masking: SSIM = 0.7005
+Adaptive Gamma Correction: SSIM = 0.8369
+Morphological Opening: SSIM = 0.8295
+
+Best SSIM Score for task1_img1: Bilateral + Sharpen with SSIM = 0.8667

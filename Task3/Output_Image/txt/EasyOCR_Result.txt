@@ -1,0 +1,16 @@
+Detected: DS KU 833165 | Confidence: 0.40
+Detected: BIde sky | Confidence: 0.20
+Detected: BS IU | Confidence: 0.55
+Detected: 833165 | Confidence: 1.00
+Detected: 4561 | Confidence: 1.00
+Detected: IOnntet | Confidence: 0.00
+Detected: 71850 | Confidence: 0.95
+Detected: TARE | Confidence: 0.99
+Detected: 1770 | Confidence: 0.38
+Detected: ltg | Confidence: 0.12
+Detected: 68348 | Confidence: 0.44
+Detected: CU | Confidence: 0.42
+Detected: CAP | Confidence: 1.00
+Detected: 2700 | Confidence: 0.37
+Detected: cu Im | Confidence: 0.09
+Detected: cuto | Confidence: 0.27
